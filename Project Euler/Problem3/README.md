@@ -6,4 +6,4 @@ https://projecteuler.net/problem=3
 
 #### Resources
 - [Vectors](https://learning-rust.github.io/docs/b1.vectors.html)
-- [Multiple Iterations in Vector](https://old.reddit.com/r/rust/comments/3s2obn/multiple_iterations_over_same_vector/)
+- [Vectors Multiple Iterations](https://old.reddit.com/r/rust/comments/3s2obn/multiple_iterations_over_same_vector/)
