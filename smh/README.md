@@ -5,6 +5,7 @@
 ## To Do
 - [x] Error Handling
 - [ ] Use my custom implementation of the Unix commands `cat` / `pwd` / `ls` included in this repository
+- [ ] Include GIF showcasing the shell and its features
 
 ## Running Instructions
 - Clone the `/smh` directory
