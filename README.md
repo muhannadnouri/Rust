@@ -17,5 +17,3 @@
 - [What feature of Rust is used very often by experienced programmers, but not so much by a newbie?](https://old.reddit.com/r/rust/comments/hp6guz/what_feature_of_rust_is_used_very_often_by/)
 - [Choosing a Rust web framework, 2020 edition
 ](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/)
-- [Placeholder](Placeholder)
-- [Placeholder](Placeholder)
